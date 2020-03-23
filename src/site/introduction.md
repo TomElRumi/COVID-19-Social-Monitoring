@@ -27,5 +27,3 @@ Participating journalists will have the option to join a journalistic collaborat
 Social monitoring helps you report on stories that have typically gone under-reported. Through social monitoring you can connect with individuals who’ve  survived a disaster, deadly disease outbreak, or may have been eyewitnesses in another newsworthy event. 
 
 For example, you may be able to conduct a Skype interview with someone who has been living under lockdown in Iran, China, or Italy during COVID-19, do a Q&A with an international student who can recount the ordeal of being stranded abroad due to COVID-19 travel restrictions, or write an article about the unique trends in different countries to combat anxiety and isolation during the pandemic.      
-
-<img src="/images/fathm_mark_RGB_green.png">
