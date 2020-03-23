@@ -1,33 +1,53 @@
 ---
 title: Get Yours
 layout: layouts/base.njk
-subtitle: Clone and deploy your own EleventyOne starter template.
+subtitle: COVID-19 Social Monitoring Toolkit
 ---
 
-## Hosting
+## Setting up a Monitoring Operation
 
-This site is deployed by, and hosted by [Netlify](https://www.netlify.com).
+You can find valuable content on social platforms in two main ways:
 
-<div class="nakedLink">
 
-Latest deploy status: [![Netlify Status](https://api.netlify.com/api/v1/badges/056b4a67-70e6-4af4-9be5-dee151b8e906/deploy-status)](https://app.netlify.com/sites/eleventyone/deploys)
+Passive monitoring: can be set up to return results on an ongoing basis around topics you’re following. Example: Use Crowdtangle to find pre-viral content in community Facebook groups set up to provide volunteer support for COVID-19 as it emerges.
+Active search: requires bespoke keyword search for specific stories that you’re trying to cover. Example: Searching Twitter for people who have started self-isolating in Iran and are talking about their experience.
 
-</div>
+Often active search can be adapted for passive monitoring, so you can follow developments on an ongoing basis. In the section below we’ll guide you through social monitoring best practices that work for both passive monitoring and active search.
 
-## One-click deploy
+### Getting Started: Building Search Strings
+Finding valuable content and voices on social platforms means putting yourself in the shoes of a person experiencing something you want to report on. A good place to start is to answer the questions: What words would they use to describe their experience? What language do they speak?
 
-To get your own instance of this [Eleventy](https://11ty.io) starter project cloned and deploying to [Netlify](https://www.netlify.com) very quickly, just click the button below and follow the instructions.
+_Examples:_
 
-<div class="nakedLink">
+```
+“Self-isolation” is quite a technical way of describing being “stuck at home”
+“Symptomatic” is a technical way of saying “have a dry cough” or “have a high fever”
+“Social distancing” is a technical way of saying “staying at home” or “not going out”
+```
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/philhawksworth/eleventyone)
+Using simple operators you can combine search terms:
 
-</div>
+```
+“ “
+AND
+OR
+NOT (-)
+```
 
-## 👆 Wait, what happens when I click that button?
+### Getting Started: Curating Sources
+Different social platforms have features that lets you build comprehensive lists of potential sources, pages and groups that might be useful in your social monitoring.
 
-Good question. Here's what it will do...
+Twitter Lists are a great way to follow groups of people posting about a specific topic, or from a specific place. 
 
-1. Netlify will clone the [git repository]({{pkg.repository.url}}) of this project into your GitHub account. You will be asked for the required permissions to add the repo for you.
-2. They'll create a new site for you in Netlify, and configure it to use your shiny new repo. Right away you'll be able to deploy changes simply by pushing changes to your repo.
-3. That's it really.
+Example:
+
+Facebook groups are also popular places where people gather to talk about their #COVID-19 experiences and share stories.
+
+Using Facebook, enter your search term (in the relevant language) and filter by “Groups”. 
+
+In Crowdtangle (more on this below) you can make a list of groups that you can follow in the app, sorting by overperforming content or through keyword search.
+
+Using Facebook or Twitter, you can curate lists of “official” sources in your country that are authorised to provide statistics or updates that are most relevant to your story.  
+
+Pay close attention to geographies where maximum cases of deaths or casualties from an accident or disease outbreak are being reported. If there is a local language that’s spoken in that region make sure you are considering that language while drawing up key search terms.
+
