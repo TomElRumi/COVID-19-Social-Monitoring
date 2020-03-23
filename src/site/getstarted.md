@@ -24,7 +24,11 @@ _Examples:_
 “Social distancing” might be described as “staying at home” or “not going out”
 ```
 
-Using simple operators you can combine search terms:
+Using simple operators you can be more specific with your search terms:
+
+<img src="/images/operator2.jpeg" style="width:700px;height:394px;" class="center">
+
+Using simple operators you can also combine search terms:
 
 <img src="/images/operators.jpeg" style="width:700px;height:394px;" class="center">
 
