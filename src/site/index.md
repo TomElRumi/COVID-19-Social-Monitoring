@@ -1,5 +1,5 @@
 ---
-title: #COVID-19 - Social Monitoring Toolkit
+title: COVID-19 - Social Monitoring Toolkit
 subtitle: Find the untold stories of the coronavirus crisis<br /> Made by <a href="https://twitter.com/philhawksworth">Phil</a> for <a href="https://twitter.com/philhawksworth">Phil</a>, but perhaps you might also find it useful.
 layout: layouts/base.njk
 ---
