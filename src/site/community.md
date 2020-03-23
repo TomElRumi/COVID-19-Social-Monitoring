@@ -1,5 +1,5 @@
 ---
-title: Get Yours
+title: Community
 layout: layouts/base.njk
 subtitle: Clone and deploy your own EleventyOne starter template.
 ---
