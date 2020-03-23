@@ -4,7 +4,6 @@ subtitle: Find the untold stories of the coronavirus crisis.
 layout: layouts/base.njk
 ---
 
-
 ## Introduction
 COVID-19 is a watershed moment for journalism. Social distancing, self-isolation, quarantines and lockdowns mean that all journalists suddenly need new, digital reporting tactics and workflows to do their jobs. Many don’t know where to begin. 
 
