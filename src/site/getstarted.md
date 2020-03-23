@@ -8,9 +8,8 @@ subtitle: COVID-19 Social Monitoring Toolkit
 
 You can find valuable content on social platforms in two main ways:
 
-
-Passive monitoring: can be set up to return results on an ongoing basis around topics you’re following. Example: Use Crowdtangle to find pre-viral content in community Facebook groups set up to provide volunteer support for COVID-19 as it emerges.
-Active search: requires bespoke keyword search for specific stories that you’re trying to cover. Example: Searching Twitter for people who have started self-isolating in Iran and are talking about their experience.
+- **Passive monitoring:** can be set up to return results on an ongoing basis around topics you’re following. Example: Use Crowdtangle to find pre-viral content in community Facebook groups set up to provide volunteer support for COVID-19 as it emerges.
+- **Active search:** requires bespoke keyword search for specific stories that you’re trying to cover. Example: Searching Twitter for people who have started self-isolating in Iran and are talking about their experience.
 
 Often active search can be adapted for passive monitoring, so you can follow developments on an ongoing basis. In the section below we’ll guide you through social monitoring best practices that work for both passive monitoring and active search.
 
@@ -27,7 +26,7 @@ _Examples:_
 
 Using simple operators you can combine search terms:
 
-<img src="/images/operators.jpeg" class="center">
+<img src="/images/operators.jpeg" style="width:700px;height:394px;" class="center">
 
 ### Getting Started: Curating Sources
 Different social platforms have features that lets you build comprehensive lists of potential sources, pages and groups that might be useful in your social monitoring.
