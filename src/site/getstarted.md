@@ -1,10 +1,8 @@
 ---
 title: Get Started
 layout: layouts/base.njk
-subtitle: COVID-19 Social Monitoring Toolkit
+subtitle: Setting up a Monitoring Operation
 ---
-
-## Setting up a Monitoring Operation
 
 You can find valuable content on social platforms in two main ways:
 
