@@ -119,7 +119,7 @@ a:focus {
     display: inline-block;
     border-top-style: solid;
     border-top-width: 1px;
-    border-top-color: mix($text-color, $accent-two, 40%);
+    border-top-color: $accent-two;
     border-bottom-style: none;
     padding-top: 0.8em;
     padding-bottom: 2em;
