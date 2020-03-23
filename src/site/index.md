@@ -4,9 +4,9 @@ subtitle: Find the untold stories of the coronavirus crisis.
 layout: layouts/base.njk
 ---
 
-## Introduction (/about)
+## [Introduction](/about)
 
-## Getting Started (/another)     
+## [Getting Started](/another)     
 
 
 ## Post pages
