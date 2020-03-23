@@ -77,7 +77,7 @@ p {
 }
 
 .subtitle {
-  font-size: 1.2em;
+  font-size: 1.8em;
   margin-top: 1em;
   margin-bottom: 3em;
 }
@@ -176,11 +176,6 @@ pre {
     padding-left: 0;
     padding-right: 0;
   }
-}
-
-header {
-  width:100%;
-  align-items: center;
 }
 
 
