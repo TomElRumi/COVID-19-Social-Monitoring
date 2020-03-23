@@ -21,9 +21,11 @@ _Examples:_
 
 ```
 “Self-isolation” is quite a technical way of describing being “stuck at home”
-
+```
+```
 “Symptomatic” is a technical way of saying “have a dry cough” or “have a high fever”
-
+```
+```
 “Social distancing” is a technical way of saying “staying at home” or “not going out”
 ```
 
