@@ -83,7 +83,7 @@ p {
 }
 
 ul, ol {
-  padding-left: 1em;
+  padding-left: 0em;
 }
 
 a:link,
@@ -176,6 +176,10 @@ pre {
     padding-left: 0;
     padding-right: 0;
   }
+}
+
+header {
+  width:100%;
 }
 
 
