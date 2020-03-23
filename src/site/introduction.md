@@ -1,10 +1,8 @@
 ---
 title: Introduction
 layout: layouts/base.njk
-subtitle: COVID-19 Social Monitoring Toolkit
+subtitle: What is social monitoring and why is it useful?
 ---
-
-## What is social monitoring and why is it useful?
 
 
 ### COVID-19 is a watershed moment for journalism. Social distancing, self-isolation, quarantines and lockdowns mean that all journalists suddenly need new, digital reporting tactics and workflows to do their jobs. Many don’t know where to begin. 
