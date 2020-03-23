@@ -4,7 +4,7 @@ layout: layouts/base.njk
 subtitle: What is social monitoring and why is it useful?
 ---
 
-COVID-19 is a watershed moment for journalism. Social distancing, self-isolation, quarantines and lockdowns mean that all journalists suddenly need new, digital reporting tactics and workflows to do their jobs. Many don’t know where to begin. 
+*COVID-19 is a watershed moment for journalism. Social distancing, self-isolation, quarantines and lockdowns mean that all journalists suddenly need new, digital reporting tactics and workflows to do their jobs. Many don’t know where to begin.* 
 
 FATHM has developed a social monitoring toolkit that will help journalists learn, on the fly, how to efficiently, effectively and ethically use social media and digital platforms as reporting tools. We aim to support reporters -- especially those working from home -- to get up and running with social monitoring as quickly as possible. 
 
