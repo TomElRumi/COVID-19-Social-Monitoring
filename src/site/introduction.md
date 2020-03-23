@@ -1,33 +1,26 @@
 ---
-title: Community
+title: Introduction
 layout: layouts/base.njk
-subtitle: Clone and deploy your own EleventyOne starter template.
+subtitle: What is social monitoring and why is it useful?
 ---
 
-## Hosting
+COVID-19 is a watershed moment for journalism. Social distancing, self-isolation, quarantines and lockdowns mean that all journalists suddenly need new, digital reporting tactics and workflows to do their jobs. Many don’t know where to begin. 
 
-This site is deployed by, and hosted by [Netlify](https://www.netlify.com).
+FATHM has developed a social monitoring toolkit that will help journalists learn, on the fly, how to efficiently, effectively and ethically use social media and digital platforms as reporting tools. We aim to support reporters -- especially those working from home -- to get up and running with social monitoring as quickly as possible. 
 
-<div class="nakedLink">
+Our toolkit provides actionable guides and resources on:
 
-Latest deploy status: [![Netlify Status](https://api.netlify.com/api/v1/badges/056b4a67-70e6-4af4-9be5-dee151b8e906/deploy-status)](https://app.netlify.com/sites/eleventyone/deploys)
+- How to set up monitoring dashboards
+- Best practices for engaging communities
+- Tips and tools for verifying content from social platforms
+- Strategies for effective publishing of stories sourced through social monitoring 
 
-</div>
+This initiative will focus on building the capacity of journalists and news organisations that have limited background or experience with social monitoring. It is also for journalism instructors and their students whose classes -- and reporting -- must move online due to the COVID-19 pandemic. 
 
-## One-click deploy
+Participating journalists will have the option to join a journalistic collaboration FATHM is building that aims to explore how COVID-19 is impacting people in under-reported communities around the world. Coordinated social monitoring will allow us to listen to and engage with people whose voices haven’t been heard for a very long time, if at all. The collaboration will identify and amplify new, essential stories about the response to the pandemic in news deserts, conflict zones and other marginalised communities. 
 
-To get your own instance of this [Eleventy](https://11ty.io) starter project cloned and deploying to [Netlify](https://www.netlify.com) very quickly, just click the button below and follow the instructions.
 
-<div class="nakedLink">
+## What kinds of stories can social monitoring allow you to cover?
+Social monitoring helps you report on stories that have typically gone under-reported. Through social monitoring you can connect with individuals who’ve  survived a disaster, deadly disease outbreak, or may have been eyewitnesses in another newsworthy event. 
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/philhawksworth/eleventyone)
-
-</div>
-
-## 👆 Wait, what happens when I click that button?
-
-Good question. Here's what it will do...
-
-1. Netlify will clone the [git repository]({{pkg.repository.url}}) of this project into your GitHub account. You will be asked for the required permissions to add the repo for you.
-2. They'll create a new site for you in Netlify, and configure it to use your shiny new repo. Right away you'll be able to deploy changes simply by pushing changes to your repo.
-3. That's it really.
+For example, you may be able to conduct a Skype interview with someone who has been living under lockdown in Iran, China, or Italy during COVID-19, do a Q&A with an international student who can recount the ordeal of being stranded abroad due to COVID-19 travel restrictions, or write an article about the unique trends in different countries to combat anxiety and isolation during the pandemic.      
