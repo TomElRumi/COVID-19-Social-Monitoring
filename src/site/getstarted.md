@@ -19,9 +19,9 @@ Finding valuable content and voices on social platforms means putting yourself i
 _Examples:_
 
 ```bash
-“Self-isolation” is quite a technical way of describing being “stuck at home”
+“Self-isolation” is a less common phrase than “stuck at home”
 “Symptomatic” is a technical way of saying “have a dry cough” or “have a high fever”
-“Social distancing” is a technical way of saying “staying at home” or “not going out”
+“Social distancing” might be described as “staying at home” or “not going out”
 ```
 
 Using simple operators you can combine search terms:
@@ -33,7 +33,7 @@ Different social platforms have features that lets you build comprehensive lists
 
 Twitter Lists are a great way to follow groups of people posting about a specific topic, or from a specific place. 
 
-Example:
+_Example:_
 
 Facebook groups are also popular places where people gather to talk about their #COVID-19 experiences and share stories.
 
