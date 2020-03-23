@@ -24,7 +24,7 @@ _Examples:_
 
 Using simple operators you can be more specific with your search terms:
 
-<img src="/images/operators2.jpeg" class="center" class="responsive">
+<img src="/images/operators2.jpeg" class="center, responsive">
 
 Using simple operators you can also combine search terms:
 
