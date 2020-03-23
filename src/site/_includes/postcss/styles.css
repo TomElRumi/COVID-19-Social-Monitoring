@@ -207,3 +207,11 @@ footer {
   margin-right: auto;
   width: 50%;
 }
+
+provided {
+  border-top-width: 1px;
+  border-top-style: solid;
+  border-top-color: mix($text-color, $accent-color, 10%);
+  font-size: 0.7em;
+  color: mix($text-color, $accent-color, 50%);
+}
