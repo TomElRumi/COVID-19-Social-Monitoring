@@ -28,4 +28,4 @@ Social monitoring helps you report on stories that have typically gone under-rep
 
 For example, you may be able to conduct a Skype interview with someone who has been living under lockdown in Iran, China, or Italy during COVID-19, do a Q&A with an international student who can recount the ordeal of being stranded abroad due to COVID-19 travel restrictions, or write an article about the unique trends in different countries to combat anxiety and isolation during the pandemic.      
 
-<a href="https://fathm.co"><img src="/images/fathm.png" style="width:200px;height:197px;" align="middle"></a>
+<a href="https://fathm.co"><img src="/images/fathm.png" style="width:200px;height:197px;" class="center"></a>
