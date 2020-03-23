@@ -24,11 +24,11 @@ _Examples:_
 
 Using simple operators you can be more specific with your search terms:
 
-<img src="/images/operators2.jpeg" style="width:700px;height:394px;" class="center" class="responsive">
+<img src="/images/operators2.jpeg" class="center" class="responsive">
 
 Using simple operators you can also combine search terms:
 
-<img src="/images/operators.jpeg" style="width:700px;height:394px;" class="center, responsive">
+<img src="/images/operators.jpeg" class="center, responsive">
 
 ### Getting Started: Curating Sources
 Different social platforms have features that lets you build comprehensive lists of potential sources, pages and groups that might be useful in your social monitoring.
