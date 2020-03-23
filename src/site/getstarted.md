@@ -27,7 +27,7 @@ _Examples:_
 
 Using simple operators you can combine search terms:
 
-<img src="/images/operators.jpg" class="center">
+<img src="/images/operators.jpeg" class="center">
 
 ### Getting Started: Curating Sources
 Different social platforms have features that lets you build comprehensive lists of potential sources, pages and groups that might be useful in your social monitoring.
