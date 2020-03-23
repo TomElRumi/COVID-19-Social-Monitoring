@@ -26,7 +26,7 @@ _Examples:_
 
 Using simple operators you can be more specific with your search terms:
 
-<img src="/images/operator2.jpeg" style="width:700px;height:394px;" class="center">
+<img src="/images/operators2.jpeg" style="width:700px;height:394px;" class="center">
 
 Using simple operators you can also combine search terms:
 
