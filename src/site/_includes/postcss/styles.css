@@ -53,6 +53,7 @@ body {
 h1, h2, h3 {
   color: $text-color;
   font-weight: 600;
+  font-family: Oscine
   margin-top: 2em;
   margin-bottom:0.2em;
   line-height: 1;
@@ -185,7 +186,7 @@ footer {
   padding-bottom: 6em;
   border-top-width: 1px;
   border-top-style: solid;
-  border-top-color: mix($text-color, $accent-color, 10%);
+  border-top-color: mix($text-color, $accent-color, 30%);
   font-size: 0.7em;
   color: mix($text-color, $accent-color, 50%);
 
