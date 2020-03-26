@@ -44,7 +44,7 @@ Facebook groups are also popular places where people gather to talk about their 
 Using Facebook, enter your search term (in the relevant language) and filter by “Groups”. Another way to search Facbook groups is to use Google's site specific search. For example:
 
 ```bash
-site:facebok.com/groups (القاهرة AND COVID 19)
+site:facebook.com/groups (القاهرة AND COVID 19)
 ```
 
 Returns:
