@@ -14,7 +14,7 @@ subtitle: Global social monitoring for COVID-19
     <label>Email <input type="email" name="email" /></label>
   </p>
    <p>
-    <label>Organizationn <input type="text" name="organization" /></label>
+    <label>Organization <input type="text" name="organization" /></label>
   </p>
   <p>
     <label>Location <input type="text" name="location" /></label>
