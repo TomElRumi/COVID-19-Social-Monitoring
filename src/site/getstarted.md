@@ -37,6 +37,8 @@ Twitter Lists are a great way to follow groups of people posting about a specifi
 
 _Example:_
 
+<a href="https://twitter.com/i/lists/1233373419640623104"><img src="/images/TwitterList.png" class="center, responsive"></a>
+
 Facebook groups are also popular places where people gather to talk about their #COVID-19 experiences and share stories.
 
 Using Facebook, enter your search term (in the relevant language) and filter by “Groups”. 
