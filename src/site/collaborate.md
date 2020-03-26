@@ -20,6 +20,6 @@ subtitle: Global social monitoring for COVID-19
     <label>Location <input type="text" name="location" /></label>
   </p>
   <p>
-    <button type="submit">Send</button>
+    <button type="submit" class="center">Send</button>
   </p>
 </form>
