@@ -37,15 +37,34 @@ Twitter Lists are a great way to follow groups of people posting about a specifi
 
 _Example:_
 
-<a href="https://twitter.com/i/lists/1233373419640623104"><img src="/images/TwitterList.png" class="center, responsive"></a>
+<a href="https://twitter.com/i/lists/1233373419640623104" target="_blank"><img src="/images/TwitterList.png" class="center, responsive"></a>
 
 Facebook groups are also popular places where people gather to talk about their #COVID-19 experiences and share stories.
 
-Using Facebook, enter your search term (in the relevant language) and filter by “Groups”. 
+Using Facebook, enter your search term (in the relevant language) and filter by “Groups”. Another way to search Facbook groups is to use Google's site specific search. For example:
 
-In Crowdtangle (more on this below) you can make a list of groups that you can follow in the app, sorting by overperforming content or through keyword search.
+```bash
+site:facebok.com/groups (القاهرة AND COVID 19)
+```
+
+Returns:
+
+<img src="/images/googlesitesearch.png" class="center, responsive">
+
+From there we can find this group, with some potentially useful content:
+
+<img src="/images/facebookgroup.png" class="center, responsive">
 
 Using Facebook or Twitter, you can curate lists of “official” sources in your country that are authorised to provide statistics or updates that are most relevant to your story.  
 
+In Crowdtangle (more on this in the Monitoring Tools section below) you can make a list of groups that you can follow in the app, sorting by overperforming content or through keyword search.
+
 Pay close attention to geographies where maximum cases of deaths or casualties from an accident or disease outbreak are being reported. If there is a local language that’s spoken in that region make sure you are considering that language while drawing up key search terms.
+
+### Monitoring Tools
+
+- CrowdTangle
+- Tweetdeck
+- Google (using "dorks")
+- Tools to keep track of updates to websites (can be done in bulk)
 
