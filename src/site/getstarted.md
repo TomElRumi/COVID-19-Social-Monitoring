@@ -59,6 +59,9 @@ Using Facebook or Twitter, you can curate lists of “official” sources in you
 
 In Crowdtangle (more on this in the Monitoring Tools section below) you can make a list of groups that you can follow in the app, sorting by overperforming content or through keyword search.
 
+<img src="/images/crowdtangle1.png" class="center, responsive">
+<img src="/images/crowdtangle2.png" class="center, responsive">
+
 Pay close attention to geographies where maximum cases of deaths or casualties from an accident or disease outbreak are being reported. If there is a local language that’s spoken in that region make sure you are considering that language while drawing up key search terms.
 
 ### Monitoring Tools
