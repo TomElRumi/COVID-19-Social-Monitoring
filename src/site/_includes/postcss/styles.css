@@ -232,3 +232,7 @@ form {
   padding-left: 1em;
   padding-right: 1em;
 }
+
+button {
+  padding:5px 7px 5px 7px;
+}
