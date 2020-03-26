@@ -223,4 +223,7 @@ provided {
 
 form {
   background-color: #54507F;
+  border-radius: 15px;
+  -moz-border-radius: 15px;
+  -webkit-border-radius: 15px;
 }
