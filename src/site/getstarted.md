@@ -66,8 +66,8 @@ Pay close attention to geographies where maximum cases of deaths or casualties f
 
 ### Monitoring Tools
 
-- CrowdTangle
-- Tweetdeck
-- Google (using "dorks")
-- Tools to keep track of updates to websites (can be done in bulk)
+- [CrowdTangle](https://crowdtangle.com) - Allows you to build lists of Facebook pages and groups to search for content and monitor content getting high levels of engagement.
+- [Tweetdeck](https://tweetdeck.com) - Allows you to monitor multiple searches and lists simultaneously.
+- Google (using "dorks") - Lets you find emerging docs published by sites of interest, and supports site-specific search across YouTube, Facebook, Instagram etc. [Read more about GoogleDorks.](https://exposingtheinvisible.org/guides/google-dorking/)
+- [Various tools](https://www.osintessentials.com/monitoring) to keep track of updates to websites (can be done in bulk)
 
