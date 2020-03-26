@@ -14,6 +14,6 @@ subtitle: Global social monitoring for COVID-19
     <label>Email <input type="email" name="email" /></label>
   </p>
   <p>
-    <button type="submit">Send</button>
+    <button type="submit" width="100%">Send</button>
   </p>
 </form>
