@@ -11,6 +11,6 @@ Any content sourced from social platforms requires rigorous verification - eithe
 
 Read below for some strategies for verifying content you’ve found via social monitoring.
 
-### Source Verification
-
 ### Content Verification
+
+### Source Verification
