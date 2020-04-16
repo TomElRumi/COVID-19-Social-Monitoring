@@ -5,10 +5,10 @@ subtitle: Setting up a Monitoring Operation
 ---
 
 <div class="quicknav">
-	Jump to:
-- _<a href="#searchstrings">Building Search Strings</a>_
-- _<a href="#curatingsources">Curating Social Sources</a>_
-- _<a href="#monitoringtools">Social Monitoring Tools</a>_
+	Jump to:<br>
+<ul><a href="#searchstrings">Building Search Strings</a></ul>
+<ul><a href="#curatingsources">Curating Social Sources</a></ul>
+<ul><a href="#monitoringtools">Social Monitoring Tools</a></ul>
 </div>
 
 You can find valuable content on social platforms in two main ways:
