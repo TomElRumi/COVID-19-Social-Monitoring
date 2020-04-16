@@ -4,10 +4,12 @@ layout: layouts/base.njk
 subtitle: Setting up a Monitoring Operation
 ---
 
-Jump to:
+<div class="quicknav">
+	Jump to:
 - _<a href="#searchstrings">Building Search Strings</a>_
 - _<a href="#curatingsources">Curating Social Sources</a>_
 - _<a href="#monitoringtools">Social Monitoring Tools</a>_
+</div>
 
 You can find valuable content on social platforms in two main ways:
 
