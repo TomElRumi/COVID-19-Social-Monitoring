@@ -41,9 +41,9 @@ Read below for some strategies for verifying content you’ve found via social m
 
 * Conduct a reverse image search on photographs that you find associated with your research subject, and use that to find as many new details as possible.
 
-  * Some online message boards will show the IP address of the poster
-  * Twitter’s account recovery option for an account reveals a few digits of the registered email address and/or phone number
-  * Google Plus profiles can lead to YouTube accounts
+  * >> Some online message boards will show the IP address of the poster
+  * >> Twitter’s account recovery option for an account reveals a few digits of the registered email address and/or phone number
+  * >> Google Plus profiles can lead to YouTube accounts
 
 * Is the uploader the owner of the content? Many people are unaware that the owner of a photograph/video is the one who has clicked the photo or recorded the video. The person(s) featured in a photograph/video or the owner(s) of the equipment with which that content has been captured do NOT own it. 
 
@@ -57,34 +57,33 @@ Read below for some strategies for verifying content you’ve found via social m
 
 After playing Sherlock, if you discover that the uploader of the UGC that interests you is someone who appears credible, you still cannot take that content at face value. You need to verify it to judge whether it is manipulated, fake, or perhaps satirical content. Remember you are ONLY interested in genuine UGC.  
 
-- You should be able to answer at least the following questions during the verification process:  
+* You should be able to answer at least the following questions during the verification process:  
 
-- Is there any evidence of manipulation in the image, video, or audio that you are investigating ? 
+* Is there any evidence of manipulation in the image, video, or audio that you are investigating ? 
 
-- Does the content actually pertain to the event or subject that you are investigating? Eg: An image showing currency strewn on a street was circulating on social media. The text with that image read that people in Italy had thrown all their money on the street saying that it will not save them from death during the COVID-19 outbreak. It was actually an old image from Venezuela that had nothing to do with the COVID-19 pandemic.   
+* Does the content actually pertain to the event or subject that you are investigating? Eg: *An image showing currency strewn on a street was circulating on social media. The text with that image read that people in Italy had thrown all their money on the street saying that it will not save them from death during the COVID-19 outbreak. It was actually an old image from Venezuela that had nothing to do with the COVID-19 pandemic.*   
 
-- Is a statistic, quote, or interview being used out of context ? Eg: an official or celebrity may have said something but words from their exact quote are omitted and the meaning is changed.
+* Is a statistic, quote, or interview being used out of context ? Eg: an official or celebrity may have said something but words from their exact quote are omitted and the meaning is changed.
 
-- If the UGC that you are evaluating does not have any other trace on the internet, it could either be fake or it may be hyperlocal content. 
+* If the UGC that you are evaluating does not have any other trace on the internet, it could either be fake or it may be hyperlocal content. 
   
-- Check the comments and description posted with the content on public platforms, it may lead to useful cues about the veracity of the content. 
+* Check the comments and description posted with the content on public platforms, it may lead to useful cues about the veracity of the content. 
 
-- Building the following questions into your workflow could help create an efficient verification strategy: 
+* Building the following questions into your workflow could help create an efficient verification strategy: 
 
-	- Which leads do you need to prioritise in terms of verification/debunking? 
-	- There are several main strands to be considered:
-		- is it being widely shared on social media or closed messaging apps?
-		- how likely is it to be taken seriously?
-		- if it is taken seriously, what is the magnitude of the harm that it can do?
+  * >> Which leads do you need to prioritise in terms of verification/debunking? 
+  * >> is it being widely shared on social media or closed messaging apps?
+  * >> how likely is it to be taken seriously?
+  * >> if it is taken seriously, what is the magnitude of the harm that it can do?
 
-- Combining these judgments, you can “triage” what needs to be dealt with as a matter of priority. 
+* Combining these judgments, you can “triage” what needs to be dealt with as a matter of priority. 
 
-- How do you begin to tackle a piece of content that needs verification?
+* How do you begin to tackle a piece of content that needs verification?
 
-- Identify the specific claim(s) being made?
+* Identify the specific claim(s) being made?
 
-- Identify which of those claims can actually be verified/debunked? Eg: if a politician makes a definitive statement about how soon his/her country’s economy will bounce back after businesses have been hit globally by the COVID-19 pandemic, you are unlikely to immediately find evidence against which you could verify that claim.  
+* Identify which of those claims can actually be verified/debunked? Eg: if a politician makes a definitive statement about how soon his/her country’s economy will bounce back after businesses have been hit globally by the COVID-19 pandemic, you are unlikely to immediately find evidence against which you could verify that claim.  
 
-- Identify how you are going to go about verification of claims ? Eg: what official sources, figures, documentation etc. can you use.
+* Identify how you are going to go about verification of claims ? Eg: what official sources, figures, documentation etc. can you use.
 
-- Here’s a link to open-source tools widely used by the fact-checking community.
+* Here’s [a link to tools](https://www.osintessentials.com/) widely used by the fact-checking and open source investigation community.
