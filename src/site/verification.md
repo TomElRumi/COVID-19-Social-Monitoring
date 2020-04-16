@@ -55,6 +55,10 @@ Read below for some strategies for verifying content you’ve found via social m
 
 * If you are able to establish that an uploader belongs to an extremist organisation or a terror outfit, do not use that content as you do not want to give them any kind of publicity. 
 
+<div class="quicknav">
+<a href="#top">Back to top.</a>
+</div>
+
 <h3 id="contentverification">Content Verification</h3>
 
 After playing Sherlock, if you discover that the uploader of the UGC that interests you is someone who appears credible, you still cannot take that content at face value. You need to verify it to judge whether it is manipulated, fake, or perhaps satirical content. Remember you are ONLY interested in genuine UGC.  
@@ -92,4 +96,6 @@ After playing Sherlock, if you discover that the uploader of the UGC that intere
 
 * Here’s [a link to tools](https://www.osintessentials.com/) widely used by the fact-checking and open source investigation community.
 
-<a href="#nav">Back to top.</a>
+<div class="quicknav">
+<a href="#top">Back to top.</a>
+</div>
