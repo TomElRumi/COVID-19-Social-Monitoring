@@ -18,10 +18,6 @@ You can find valuable content on social platforms in two main ways:
 
 Often active search can be adapted for passive monitoring, so you can follow developments on an ongoing basis. In the section below we’ll guide you through social monitoring best practices that work for both passive monitoring and active search.
 
-<div class="quicknav">
-<a href="#top">Back to top.</a>
-</div>
-
 <h3 id="searchstrings">Getting Started: Building Search Strings</h3>
 
 Finding valuable content and voices on social platforms means putting yourself in the shoes of a person experiencing something you want to report on. A good place to start is to answer the questions: What words would they use to describe their experience? What language do they speak?
@@ -41,6 +37,10 @@ Using simple operators you can be more specific with your search terms:
 Using simple operators you can also combine search terms:
 
 <img src="/images/operators.jpeg" class="center, responsive">
+
+<div class="quicknav">
+<a href="#top">Back to top.</a>
+</div>
 
 <h3 id="curatingsources">Getting Started: Curating Sources</h3>
 Different social platforms have features that lets you build comprehensive lists of potential sources, pages and groups that might be useful in your social monitoring.
