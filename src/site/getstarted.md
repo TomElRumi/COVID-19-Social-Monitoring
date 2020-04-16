@@ -19,9 +19,7 @@ You can find valuable content on social platforms in two main ways:
 Often active search can be adapted for passive monitoring, so you can follow developments on an ongoing basis. In the section below we’ll guide you through social monitoring best practices that work for both passive monitoring and active search.
 
 <h3 id="searchstrings">Getting Started: Building Search Strings</h3>
-<div class="quicknav">
-<a href="#top">Back to top.</a>
-</div>
+
 Finding valuable content and voices on social platforms means putting yourself in the shoes of a person experiencing something you want to report on. A good place to start is to answer the questions: What words would they use to describe their experience? What language do they speak?
 
 _Examples:_
@@ -74,10 +72,11 @@ In Crowdtangle (more on this in the Monitoring Tools section below) you can make
 
 Pay close attention to geographies where maximum cases of deaths or casualties from an accident or disease outbreak are being reported. If there is a local language that’s spoken in that region make sure you are considering that language while drawing up key search terms.
 
-<h3 id="monitoringtools">Monitoring Tools</h3>
 <div class="quicknav">
 <a href="#top">Back to top.</a>
 </div>
+
+<h3 id="monitoringtools">Monitoring Tools</h3>
 
 - [CrowdTangle](https://crowdtangle.com) - Allows you to build lists of Facebook pages and groups to search for content and monitor content getting high levels of engagement.
 - [Tweetdeck](https://tweetdeck.com) - Allows you to monitor multiple searches and lists simultaneously.
