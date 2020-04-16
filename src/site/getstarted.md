@@ -4,7 +4,10 @@ layout: layouts/base.njk
 subtitle: Setting up a Monitoring Operation
 ---
 
-- <a href="#searchstrings">Building Search Strings</a>
+Jump to:
+- _<a href="#searchstrings">Building Search Strings</a>_
+- _<a href="#curatingsources">Curating Social Sources</a>_
+- _<a href="#monitoringtools">Social Monitoring Tools</a>_
 
 You can find valuable content on social platforms in two main ways:
 
@@ -32,7 +35,7 @@ Using simple operators you can also combine search terms:
 
 <img src="/images/operators.jpeg" class="center, responsive">
 
-### Getting Started: Curating Sources
+<h3 id="curatingsources">Getting Started: Curating Sources</h3>
 Different social platforms have features that lets you build comprehensive lists of potential sources, pages and groups that might be useful in your social monitoring.
 
 Twitter Lists are a great way to follow groups of people posting about a specific topic, or from a specific place. 
@@ -66,7 +69,7 @@ In Crowdtangle (more on this in the Monitoring Tools section below) you can make
 
 Pay close attention to geographies where maximum cases of deaths or casualties from an accident or disease outbreak are being reported. If there is a local language that’s spoken in that region make sure you are considering that language while drawing up key search terms.
 
-### Monitoring Tools
+<h3 id="monitoringtools">Monitoring Tools</h3>
 
 - [CrowdTangle](https://crowdtangle.com) - Allows you to build lists of Facebook pages and groups to search for content and monitor content getting high levels of engagement.
 - [Tweetdeck](https://tweetdeck.com) - Allows you to monitor multiple searches and lists simultaneously.
