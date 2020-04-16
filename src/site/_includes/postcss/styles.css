@@ -250,3 +250,7 @@ button {
   color: mix($text-color, $accent-color, 50%);
   text-align: center;
 }
+
+.indent {
+  margin-left: 40px;
+}

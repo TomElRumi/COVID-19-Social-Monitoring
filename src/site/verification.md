@@ -40,11 +40,11 @@ Read below for some strategies for verifying content you’ve found via social m
 * Some people use the same profile photograph on different sites, even when they use different usernames.
 
 * Conduct a reverse image search on photographs that you find associated with your research subject, and use that to find as many new details as possible.
-
+<div class="indent">
   * >> Some online message boards will show the IP address of the poster
   * >> Twitter’s account recovery option for an account reveals a few digits of the registered email address and/or phone number
   * >> Google Plus profiles can lead to YouTube accounts
-
+</div>
 * Is the uploader the owner of the content? Many people are unaware that the owner of a photograph/video is the one who has clicked the photo or recorded the video. The person(s) featured in a photograph/video or the owner(s) of the equipment with which that content has been captured do NOT own it. 
 
 * Beware that many websites simply scrape content  
@@ -70,12 +70,12 @@ After playing Sherlock, if you discover that the uploader of the UGC that intere
 * Check the comments and description posted with the content on public platforms, it may lead to useful cues about the veracity of the content. 
 
 * Building the following questions into your workflow could help create an efficient verification strategy: 
-
+<div class="indent"> 
   * >> Which leads do you need to prioritise in terms of verification/debunking? 
   * >> is it being widely shared on social media or closed messaging apps?
   * >> how likely is it to be taken seriously?
   * >> if it is taken seriously, what is the magnitude of the harm that it can do?
-
+</div>
 * Combining these judgments, you can “triage” what needs to be dealt with as a matter of priority. 
 
 * How do you begin to tackle a piece of content that needs verification?
