@@ -1,33 +1,20 @@
 ---
 title: Community
 layout: layouts/base.njk
-subtitle: Clone and deploy your own EleventyOne starter template.
+subtitle: Strategies & best practice for getting content from your community
 ---
 
-## Hosting
+- Identify the individuals or social profiles that you think might be able to offer the maximum first-person insights or expertise about a subject that you are interested in investigating. Eg: a group of COVID-19 survivors from Italy who are in the high-risk age bracket.   
 
-This site is deployed by, and hosted by [Netlify](https://www.netlify.com).
+- Be intuitive about how you can make that initial contact with someone from that community. Eg: find a Facebook group that some of them are part of and join it. That may help you establish some contact.  
 
-<div class="nakedLink">
+- To gain the trust of an individual or community it’s important that you communicate to them at the outset what are your motivations in reaching out to them.     
 
-Latest deploy status: [![Netlify Status](https://api.netlify.com/api/v1/badges/056b4a67-70e6-4af4-9be5-dee151b8e906/deploy-status)](https://app.netlify.com/sites/eleventyone/deploys)
+- Do you understand the language they speak? If not, find someone who does. If they have posted stuff in a language you don’t read, a good starting point could be [Google Translate](https://translate.google.com).  
 
-</div>
+- When soliciting content or reaching out to your target community through public social media platforms add a hashtag (#) and a keyword with your message and ask people to respond with that same word and #. The #keyword combination can help you comb through your social media feed for all the responses that you have received.  
 
-## One-click deploy
+- Create a Google Form with some basic questions to circulate among your target community. It can help you learn a bit about them and understand how they may be able to contribute to your project or story.
 
-To get your own instance of this [Eleventy](https://11ty.io) starter project cloned and deploying to [Netlify](https://www.netlify.com) very quickly, just click the button below and follow the instructions.
+- Recognise the time, energy, and effort that someone might be putting in to give you relevant content. Give them due credit to incentivize them to share more authentic content. 
 
-<div class="nakedLink">
-
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/philhawksworth/eleventyone)
-
-</div>
-
-## 👆 Wait, what happens when I click that button?
-
-Good question. Here's what it will do...
-
-1. Netlify will clone the [git repository]({{pkg.repository.url}}) of this project into your GitHub account. You will be asked for the required permissions to add the repo for you.
-2. They'll create a new site for you in Netlify, and configure it to use your shiny new repo. Right away you'll be able to deploy changes simply by pushing changes to your repo.
-3. That's it really.
