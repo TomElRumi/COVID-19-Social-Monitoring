@@ -238,6 +238,8 @@ button {
 }
 
 .quicknav {
+  padding-top: 0.25em;
+  padding-bottom: 0.25em;
   border-top-width: 1px;
   border-top-style: solid;
   border-top-color: $accent-two;
