@@ -79,7 +79,7 @@ p {
 .subtitle {
   font-size: 1.8em;
   margin-top: 1em;
-  margin-bottom: 2em;
+  margin-bottom: 1em;
 }
 
 ul, ol {
@@ -243,4 +243,5 @@ button {
   border-top-color: mix($text-color, $accent-color, 10%);
   font-size: 0.7em;
   color: mix($text-color, $accent-color, 50%);
+  text-align: center;
 }
