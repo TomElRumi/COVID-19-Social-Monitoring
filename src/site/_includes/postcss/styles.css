@@ -254,3 +254,21 @@ button {
 .indent {
   margin-left: 40px;
 }
+
+h2::before { 
+  display: block; 
+  content: " "; 
+  margin-top: -285px; 
+  height: 285px; 
+  visibility: hidden; 
+  pointer-events: none;
+}
+
+h3::before { 
+  display: block; 
+  content: " "; 
+  margin-top: -285px; 
+  height: 285px; 
+  visibility: hidden; 
+  pointer-events: none;
+}
