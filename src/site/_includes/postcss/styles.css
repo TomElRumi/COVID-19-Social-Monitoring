@@ -241,6 +241,9 @@ button {
   border-top-width: 1px;
   border-top-style: solid;
   border-top-color: $accent-two;
+  border-bottom-width: 1px;
+  border-bottom-style: dashed;
+  border-bottom-color: $accent-two;
   font-size: 0.7em;
   color: mix($text-color, $accent-color, 50%);
   text-align: center;
