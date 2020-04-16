@@ -4,7 +4,7 @@ layout: layouts/base.njk
 subtitle: How do you know what you've found is real?
 ---
 
-<div class="quicknav">
+<div class="quicknav" id="nav">
 	Jump to:<br>
 <ul>>> <a href="#sourceverification">Source Verification</a></ul>
 <ul>>> <a href="#contentverification">Content Verification</a></ul>
@@ -91,3 +91,5 @@ After playing Sherlock, if you discover that the uploader of the UGC that intere
 * Identify how you are going to go about verification of claims ? Eg: what official sources, figures, documentation etc. can you use.
 
 * Here’s [a link to tools](https://www.osintessentials.com/) widely used by the fact-checking and open source investigation community.
+
+<a href="#nav">Back to top.</a>
