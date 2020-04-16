@@ -4,6 +4,8 @@ layout: layouts/base.njk
 subtitle: Setting up a Monitoring Operation
 ---
 
+- <a href="#searchstrings">Building Search Strings</a>
+
 You can find valuable content on social platforms in two main ways:
 
 - **Passive monitoring:** can be set up to return results on an ongoing basis around topics you’re following. Example: Use Crowdtangle to find pre-viral content in community Facebook groups set up to provide volunteer support for COVID-19 as it emerges.
@@ -11,7 +13,7 @@ You can find valuable content on social platforms in two main ways:
 
 Often active search can be adapted for passive monitoring, so you can follow developments on an ongoing basis. In the section below we’ll guide you through social monitoring best practices that work for both passive monitoring and active search.
 
-### Getting Started: Building Search Strings
+<h3 id="searchstrings">Getting Started: Building Search Strings</h3>
 Finding valuable content and voices on social platforms means putting yourself in the shoes of a person experiencing something you want to report on. A good place to start is to answer the questions: What words would they use to describe their experience? What language do they speak?
 
 _Examples:_
