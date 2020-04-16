@@ -18,6 +18,10 @@ You can find valuable content on social platforms in two main ways:
 
 Often active search can be adapted for passive monitoring, so you can follow developments on an ongoing basis. In the section below we’ll guide you through social monitoring best practices that work for both passive monitoring and active search.
 
+<div class="quicknav">
+<a href="#top">Back to top.</a>
+</div>
+
 <h3 id="searchstrings">Getting Started: Building Search Strings</h3>
 
 Finding valuable content and voices on social platforms means putting yourself in the shoes of a person experiencing something you want to report on. A good place to start is to answer the questions: What words would they use to describe their experience? What language do they speak?
@@ -82,6 +86,7 @@ Pay close attention to geographies where maximum cases of deaths or casualties f
 - [Tweetdeck](https://tweetdeck.com) - Allows you to monitor multiple searches and lists simultaneously.
 - Google (using "dorks") - Lets you find emerging docs published by sites of interest, and supports site-specific search across YouTube, Facebook, Instagram etc. [Read more about GoogleDorks.](https://exposingtheinvisible.org/guides/google-dorking/)
 - [Various tools](https://www.osintessentials.com/monitoring) to keep track of updates to websites (can be done in bulk)
+
 <div class="quicknav">
 <a href="#top">Back to top.</a>
 </div>
