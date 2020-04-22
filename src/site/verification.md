@@ -130,6 +130,8 @@ Through a reverse image search these images could be traced to a video that has 
 <img src="/images/verification6.png" class="center, responsive"> 
 </div>
 
+<br>
+
 <div class="quicknav">
 <a href="#top">Back to top.</a>
 </div>
