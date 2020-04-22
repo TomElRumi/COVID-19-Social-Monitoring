@@ -254,6 +254,8 @@ button {
 .example {
   margin-left: 1em;
   margin-right: 1em;
+  padding-left: 0.25em;
+  padding-right: 0.25em;
   border-top-width: 1px;
   border-top-style: dashed;
   border-top-color: $accent-two;
@@ -266,7 +268,7 @@ button {
   border-bottom-width: 1px;
   border-bottom-style: dashed;
   border-bottom-color: $accent-two;
-  font-size: 1em;
+  font-size: 0.75em;
   color: $accent-two;
 }
 
