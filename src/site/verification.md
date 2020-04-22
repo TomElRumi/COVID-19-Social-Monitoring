@@ -19,6 +19,7 @@ Read below for some strategies for verifying content you’ve found via social m
 
 <h3 id="sourceverification">Source Verification</h3>
 
+<div class="example">
 *Example:* The image seen below went viral on social media in India and was widely shared on closed-messaging apps as well. It was circulated with text suggesting that the Indian flag was projected on the Matterhorn in the Alps, as Switzerland showed solidarity towards India in its fight against the COVID-19 pandemic. How do we find out if the photo is real or fake, in the absence of any fact-checked reports on the Internet?
 
 <img src="/images/verification1.png" class="center, responsive">
@@ -38,7 +39,7 @@ The image of the Indian flag has been posted there too. There’s also a link to
 The Instagram accounts of both the individuals carry this image. Besides, the work produced by both these men can be seen at several places online.  
 
 The steps followed above helped establish that this is a genuine photo produced by real people and posted through a genuine social media profile.  
-
+</div>
 
 * Trace the digital footprint of the content you are interested in, to see when it first appeared online and who posted it.  
 
