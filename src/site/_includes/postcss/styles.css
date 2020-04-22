@@ -269,6 +269,7 @@ button {
   border-bottom-style: dashed;
   border-bottom-color: $accent-two;
   font-size: 1em;
+  color: $accent-two;
 }
 
 .indent {
