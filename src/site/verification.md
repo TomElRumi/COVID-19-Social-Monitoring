@@ -120,6 +120,16 @@ After playing Sherlock, if you discover that the uploader of the UGC that intere
 
 * Here’s [a link to tools](https://www.osintessentials.com/) widely used by the fact-checking and open source investigation community.
 
+<div class="example">
+
+*Example:* Various iterations of the images seen below were predominantly circulated on closed messaging apps in India as the spread of COVID-19 was being reported across the country. The text/audio accompanying these images suggested that the act of licking spoons and touching plates was a deliberate attempt to spread the pandemic by members of a particular religion.   
+<img src="/images/verification5.png" class="center, responsive">
+
+Through a reverse image search these images could be traced to a video that has been on the Internet *since 2018* at least. The earliest cases of COVID-19 were reported from Wuhan, China in *late 2019*. So, this establishes that these images are not linked to COVID-19.  
+
+<img src="/images/verification6.png" class="center, responsive"> 
+</div>
+
 <div class="quicknav">
 <a href="#top">Back to top.</a>
 </div>
