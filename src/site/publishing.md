@@ -4,6 +4,8 @@ layout: layouts/base.njk
 subtitle: Making sense of social stories
 ---
 
+As reporters scour social media for original UGC that shines a spotlight on narratives about COVID-19 that are pertinent yet untold, they need to be mindful not to transgress ethical boundaries. This also holds true for fact-checkers who might be using UGC or content from another publication to debunk fabricated content. In the section below we offer some insights into how you can avoid ethical and legal issues while republishing content as well as producing debunks in an effective way.     
+
 <div class="quicknav" id="nav">
 	Jump to:<br>
 <ul>>> <a href="#debunk">Debunk Best Practices</a></ul>
