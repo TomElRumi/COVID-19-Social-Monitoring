@@ -252,10 +252,8 @@ button {
 }
 
 .example {
-  padding-top: 0.25em;
-  padding-bottom: 0.25em;
-  padding-left: 0.25em;
-  padding-right: 0.25em;
+  margin-left: 1em;
+  margin-right: 1em;
   border-top-width: 1px;
   border-top-style: dashed;
   border-top-color: $accent-two;
