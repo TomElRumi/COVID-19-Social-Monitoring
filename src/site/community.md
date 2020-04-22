@@ -18,6 +18,8 @@ Scouring the Internet in search of people who belong to the community that you w
 
 * Be intuitive about how you can make that initial contact with someone from that community. Find a Facebook group that some of them are part of and join it. That may help you establish some contact. 
 
+<div class="example">
+
 *Here's an example of how you might find a Facebook community that could be relevant for your story.*
 
 Running a search on Facebook with the words “COVID-19 sopravvissuti in Italia” (a translation for “COVID-19 survivors in Italy” using [Google Translate](https://translate.google.com/?source=gtx_c#view=home&op=translate&sl=auto&tl=it&text=survivors%20in%20Italy) gave the following results for groups.  
@@ -31,6 +33,8 @@ Searching for “senior” on the public group “Covid-19 emergency info Rome�
 Going through the posts on that group may offer useful information about the demographic that you want to reach out to. The members in that group might know of a survivor and the non-profit might be a good resource as well to help you connect with your subjects.  
 
 <img src="/images/communityengagement2.png" class="center, responsive">
+
+</div>
 
 * To gain the trust of an individual or community it’s important that you communicate to them at the outset what are your motivations in reaching out to them.     
 
