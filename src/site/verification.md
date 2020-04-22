@@ -19,6 +19,27 @@ Read below for some strategies for verifying content you’ve found via social m
 
 <h3 id="sourceverification">Source Verification</h3>
 
+*Example:* The image seen below went viral on social media in India and was widely shared on closed-messaging apps as well. It was circulated with text suggesting that the Indian flag was projected on the Matterhorn in the Alps, as Switzerland showed solidarity towards India in its fight against the COVID-19 pandemic. How do we find out if the photo is real or fake, in the absence of any fact-checked reports on the Internet?
+
+<img src="/images/verification1.png" class="center, responsive">
+
+Start by searching for keywords “Matterhorn Indian flag” or carry out a reverse image search. Through this process you are likely to land on the Instagram page of “Zermatt.Matterhorn” where you will find this image and similar images of flags from other countries beamed on the Matterhorn. 
+
+<img src="/images/verification2.png" class="center, responsive">
+
+But who is running this account? The Instagram profile suggests that the account promotes tourism for Zermatt and Matterhorn. The blog mentioned on the profile could be a useful place to look for more information.  
+
+<img src="/images/verification3.png" class="center, responsive">
+
+The image of the Indian flag has been posted there too. There’s also a link to other social media accounts associated with the blog, which may offer useful information about who clicked the image. The Facebook page for the blog too has carried the image on it’s timeline with the names of the two people who are behind the image. 
+
+<img src="/images/verification4.png" class="center, responsive">
+
+The Instagram accounts of both the individuals carry this image. Besides, the work produced by both these men can be seen at several places online.  
+
+The steps followed above helped establish that this is a genuine photo produced by real people and posted through a genuine social media profile.  
+
+
 * Trace the digital footprint of the content you are interested in, to see when it first appeared online and who posted it.  
 
 * Is the source a legit news organization ?  
