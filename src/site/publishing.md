@@ -15,11 +15,11 @@ As reporters scour social media for original UGC that shines a spotlight on narr
 <h3 id="debunk">Debunk best practices</h3>
 
 <div class="example">
-<a href="https://twitter.com/VerificadoMX/status/1013186713735319558"><img src="/images/production1.png" class="center, responsive"></a>
+<a href="https://twitter.com/VerificadoMX/status/1013186713735319558" target="_"><img src="/images/production1.png" class="center, responsive"></a>
 
 This image is clear and concise - explaining that the viral image is false, and using the text of the tweet to explain the real context.
 
-<a href="https://twitter.com/VerificadoMX/status/1013587673900974080"><img src="/images/production2.png" class="center, responsive"></a>
+<a href="https://twitter.com/VerificadoMX/status/1013587673900974080" target="_"><img src="/images/production2.png" class="center, responsive"></a>
 
 This clip debunks a viral video. It explains the original context of the video, and why users should be careful before they share content like this - as it's often old.
 
