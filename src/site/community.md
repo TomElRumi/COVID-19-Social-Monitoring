@@ -30,7 +30,7 @@ Searching for “senior” on the public group “Covid-19 emergency info Rome�
 
 <img src="/images/communityengagement1.png" class="center, responsive">
 
-Going through the posts on that group may offer useful information about the demographic that you want to reach out to. The members in that group might know of a survivor and the non-profit might be a good resource as well to help you connect with your subjects.  
+Going through the information posted on the Facebook page of that non-profit may offer useful information about the demographic that you want to reach out to. The members in that group might know of a survivor and the non-profit might be a good resource as well to help you connect with your subjects.  
 
 <img src="/images/communityengagement2.png" class="center, responsive">
 
