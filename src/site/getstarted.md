@@ -1,7 +1,7 @@
 ---
 title: Get Started
 layout: layouts/base.njk
-subtitle: Setting up a Monitoring Operation
+subtitle: Setting up a monitoring operation
 ---
 
 <div class="quicknav">

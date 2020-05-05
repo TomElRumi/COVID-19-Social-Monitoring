@@ -1,7 +1,7 @@
 ---
 title: Resources
 layout: layouts/base.njk
-subtitle: Find out more about social monitoring & verification
+subtitle: Find out more about social monitoring and verification
 ---
 
 * [Investigating Coronavirus Fakes And Disinfo ? Here Are Some Tools For You](https://www.bellingcat.com/resources/2020/03/27/investigating-coronavirus-fakes-and-disinfo-here-are-some-tools-for-you/) (Bellingcat)
