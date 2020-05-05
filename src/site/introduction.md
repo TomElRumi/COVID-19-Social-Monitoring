@@ -11,10 +11,10 @@ FATHM has developed a social monitoring toolkit that will help journalists learn
 
 Our toolkit provides actionable guides and resources on:
 
-- How to set up monitoring dashboards
-- Best practices for engaging communities
-- Tips and tools for verifying content from social platforms
-- Strategies for effective publishing of stories sourced through social monitoring 
+- How to set up monitoring dashboards.
+- Best practices for engaging communities.
+- Tips and tools for verifying content from social platforms.
+- Strategies for effective publishing of stories sourced through social monitoring.
 
 This initiative will focus on building the capacity of journalists and news organisations that have limited background or experience with social monitoring. It is also for journalism instructors and their students whose classes -- and reporting -- must move online due to the COVID-19 pandemic. 
 
