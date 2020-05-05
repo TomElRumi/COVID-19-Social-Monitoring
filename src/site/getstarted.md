@@ -43,7 +43,7 @@ Using simple operators you can also combine search terms:
 </div>
 
 <h3 id="curatingsources">Getting Started: Curating Sources</h3>
-Different social platforms have features that lets you build comprehensive lists of potential sources, pages and groups that might be useful in your social monitoring.
+Different social platforms have features that let you build comprehensive lists of potential sources, pages and groups that might be useful in your social monitoring.
 
 Twitter Lists are a great way to follow groups of people posting about a specific topic, or from a specific place. 
 
@@ -53,7 +53,7 @@ _Example:_
 
 Facebook groups are also popular places where people gather to talk about their #COVID-19 experiences and share stories.
 
-Using Facebook, enter your search term (in the relevant language) and filter by “Groups”. Another way to search Facbook groups is to use Google's site specific search. For example:
+Using Facebook, enter your search term (in the relevant language) and filter by “Groups”. Another way to search Facbook groups is to use Google's site specific search. Example:
 
 ```bash
 site:facebook.com/groups (القاهرة AND COVID 19)
@@ -82,10 +82,10 @@ Pay close attention to geographies where maximum cases of deaths or casualties f
 
 <h3 id="monitoringtools">Monitoring Tools</h3>
 
-- [CrowdTangle](https://crowdtangle.com) - Allows you to build lists of Facebook pages and groups to search for content and monitor content getting high levels of engagement.
+- [CrowdTangle](https://www.crowdtangle.com) - Allows you to build lists of Facebook pages and groups to search for content and monitor content getting high levels of engagement.
 - [Tweetdeck](https://tweetdeck.com) - Allows you to monitor multiple searches and lists simultaneously.
 - Google (using "dorks") - Lets you find emerging docs published by sites of interest, and supports site-specific search across YouTube, Facebook, Instagram etc. [Read more about GoogleDorks.](https://exposingtheinvisible.org/guides/google-dorking/)
-- [Various tools](https://www.osintessentials.com/monitoring) to keep track of updates to websites (can be done in bulk)
+- [Various tools](https://www.osintessentials.com/monitoring) to keep track of updates to websites (can be done in bulk).
 
 <div class="quicknav">
 <a href="#top">Back to top.</a>
