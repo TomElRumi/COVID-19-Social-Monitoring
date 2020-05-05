@@ -25,11 +25,11 @@ This clip debunks a viral video. It explains the original context of the video, 
 
 </div>
 
-* Aim to produce fact-checked reports that are simple, crisp, yet explanatory and compelling 
+* Aim to produce fact-checked reports that are simple, crisp, yet explanatory and compelling. 
 
 * Engage audiences more susceptible to misinformation eg: students, older generation, first-generation internet users, populations with limited to no access to education.  
 
-* Remember you cannot change people’s worldview. Try to be creative, use humor wherever possible to adress misinformation    
+* Remember you cannot change people’s worldview. Try to be creative, use humor wherever possible to adress misinformation.    
 
 * Create content that is easy to share on social media and closed messaging apps which are popular in your part of the world. Eg: short videos debunking misinformation around a particular topic can be powerful, but may have a limited reach in regions where data plans are expensive and the internet is patchy.      
 
