@@ -4,7 +4,6 @@ layout: layouts/base.njk
 subtitle: Find out more about social monitoring & verification
 ---
 
-* SOMETHING FROM POP-UP May be? 
 * [Investigating Coronavirus Fakes And Disinfo ? Here Are Some Tools For You](https://www.bellingcat.com/resources/2020/03/27/investigating-coronavirus-fakes-and-disinfo-here-are-some-tools-for-you/) (Bellingcat)
 * [COVID–19 has intensified concerns about misinformation. Here's what our past research says about these issues](https://reutersinstitute.politics.ox.ac.uk/risj-review/covid-19-has-intensified-concerns-about-misinformation-heres-what-our-past-research) (Reuters Institute for the Study of Journalism)
 * [Corona Newsroom](https://reutersinstitute.politics.ox.ac.uk/risj-review/covid-19-has-intensified-concerns-about-misinformation-heres-what-our-past-research) (WAN-IFRA)
