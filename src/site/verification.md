@@ -57,7 +57,7 @@ The steps followed above helped establish that this is a genuine photo produced 
 
 * Check out the content that has been published from the same account previously to gauge their possible motivations to share false information. Example: have they been promoting a cure for COVID-19 that no one else is talking about? 
 
-* If the user has a Twitter account look, for lists created by that user on Twitter, who do they follow? Who are their followers ? 
+* If the user has a Twitter account, look for lists created by that user on Twitter. Who do they follow? Who are their followers ? 
 
 * Check out the public pages followed by them on Facebook or groups they are part of there. 
 
@@ -105,7 +105,7 @@ After playing Sherlock, if you discover that the uploader of the UGC that intere
 <li>>> Which leads do you need to prioritise in terms of verification/debunking?</li> 
 <li>>> Is it being widely shared on social media or closed messaging apps?</li>
 <li>>> How likely is it to be taken seriously?</li>
-<li>> If it is taken seriously, what is the magnitude of the harm that it can do?</li>
+<li>>> If it is taken seriously, what is the magnitude of the harm that it can do?</li>
 </ul></div>
 
 * Combining these judgments, you can “triage” what needs to be dealt with as a matter of priority. 
@@ -115,8 +115,8 @@ After playing Sherlock, if you discover that the uploader of the UGC that intere
 <div class="indent"> <ul>
 <li>>> Identify the specific claim(s) being made?</li>
 <li>>>Identify which of those claims can actually be verified/debunked? Eg: if a politician makes a definitive statement about how soon his/her country’s economy will bounce back after businesses have been hit globally by the COVID-19 pandemic, you are unlikely to immediately find evidence against which you could verify that claim.</li>  
-<li>Identify how you are going to go about verification of claims ? Example: what official sources, figures, documentation etc. can you use.</li>
-<li>Here’s [a link to tools](https://www.osintessentials.com/) widely used by the fact-checking and open source investigation community.</li></ul></div>
+<li>>>Identify how you are going to go about verification of claims ? Example: what official sources, figures, documentation etc. can you use.</li>
+<li>Here [are some tools](https://www.osintessentials.com/) widely used by the fact-checking and open source investigation community.</li></ul></div>
 
 <div class="example">
 
