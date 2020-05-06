@@ -4,4 +4,4 @@ subtitle: Find the untold stories of the coronavirus crisis.
 layout: layouts/base.njk
 ---
 
-Compiled by [Fathm](https://fathm.co) and [Associates](https://fathm.co/team). Special thanks to [Pamposh Raina](https://fathm.co/pamposh-raina).
+Compiled by [Fathm](https://fathm.co) and [Associates](https://fathm.co/team). Edited by [Pamposh Raina](https://fathm.co/pamposh-raina).
